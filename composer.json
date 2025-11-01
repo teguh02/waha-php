@@ -1,0 +1,48 @@
+{
+    "name": "teguh02/waha-php",
+    "description": "Unofficial WhatsApp HTTP API (WAHA) PHP Client - Complete implementation of WAHA API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teguh Rijanandi",
+            "email": "teguhrijanandi02@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0",
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "WahaPhp\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WahaPhp\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teguh02/waha-php.git"
+    },
+    "keywords": [
+        "waha",
+        "whatsapp",
+        "api",
+        "client",
+        "php"
+    ]
+}
+
+
