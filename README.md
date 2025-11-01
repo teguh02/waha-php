@@ -6,6 +6,8 @@
 [![PHP Version](https://img.shields.io/badge/php-8.0+-blue.svg)](https://www.php.net/downloads)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![WAHA](https://img.shields.io/badge/WAHA-2025.9-orange.svg)](https://waha.devlike.pro)
+[![Packagist](https://img.shields.io/packagist/v/teguh02/waha-php.svg)](https://packagist.org/packages/teguh02/waha-php)
+[![Downloads](https://img.shields.io/packagist/dt/teguh02/waha-php.svg)](https://packagist.org/packages/teguh02/waha-php)
 
 ## Features
 
@@ -558,6 +560,7 @@ MIT License - see LICENSE file for details
 
 ## Support
 
+- Packagist: [https://packagist.org/packages/teguh02/waha-php](https://packagist.org/packages/teguh02/waha-php)
 - GitHub Issues: [https://github.com/teguh02/waha-php/issues](https://github.com/teguh02/waha-php/issues)
 - WAHA Documentation: [https://waha.devlike.pro](https://waha.devlike.pro)
 
